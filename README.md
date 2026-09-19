@@ -12,5 +12,6 @@ Do you miss that Coppe the cat has a greenish tint from the Crossbell games? Wor
 ## Credits
 This mod would not be possible without:
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) by AdmiralCurtiss
+- [ED8 Model Toolset](https://github.com/eArmada8/ed8pkg2gltf) by eArmada8
 
 Enjoy!
