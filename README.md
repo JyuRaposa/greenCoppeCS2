@@ -1,6 +1,8 @@
 # Green Coppe CS2
 Do you miss that Coppe the cat has a greenish tint from the Crossbell games? Worry not, because this mod has you covered! This mod allows for Coppe to be green again in Cold Steel II!
 
+[Green Coppe](GreenCoppeCS2.png)
+
 ## Installation Instructions
 - SenPatcher: You can just simply copy the p3a file, and paste it to the mod folder in your Trails of Cold Steel II directory (usually in C:\Program Files (x86)\Steam\steamapps\common\Trails of Cold Steel II\mods).
 - Non-SenPatcher: Copy the C_NPC504_C08.pkg file in the edited folder, and paste it in C:\Program Files (X86)\Steam\steamapps\common\Trails of Cold Steel II\data\asset\D3D11, and overwrite the file.
