@@ -9,4 +9,8 @@ Do you miss that Coppe the cat has a greenish tint from the Crossbell games? Wor
 - SenPatcher: You can just simply delete the p3a file in the mods folder.
 - Non-SenPatcher: Copy the C_NPC504_C08.pkg file in the original folder, and paste it in C:\Program Files (X86)\Steam\steamapps\common\Trails of Cold Steel II\data\asset\D3D11, and overwrite the file.
 
+## Credits
+This mod would not be possible without:
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) by AdmiralCurtiss
+
 Enjoy!
