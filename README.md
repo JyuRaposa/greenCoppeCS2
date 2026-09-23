@@ -1,7 +1,6 @@
 # Green Coppe CS2
 Do you miss that Coppe the cat has a greenish tint from the Crossbell games? Worry not, because this mod has you covered! This mod allows for Coppe to be green again in Cold Steel II!
 
-<img width="1920" height="1080" alt="GreenCoppeCS2" src="https://github.com/user-attachments/assets/1f3db7ee-096c-4b1d-b23f-b9e8b057bdc5" />
 ![Green Coppe](GreenCoppeCS2.png)
 
 ## Installation Instructions
